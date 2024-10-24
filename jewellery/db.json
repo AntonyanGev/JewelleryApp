@@ -1,0 +1,598 @@
+{
+  "carousel": [
+    {
+      "id": 1,
+      "img": "assets/img/carousel/V.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "custom": "Custom",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel1",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": false,
+      "cash": 499,
+      "count": 1
+    },
+    {
+      "id": 2,
+      "img": "assets/img/carousel/W.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "custom": "Custom",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel1",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": false,
+      "cash": 499,
+      "count": 1
+    },
+    {
+      "id": 3,
+      "img": "assets/img/carousel/X.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "custom": "Custom",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel1",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": false,
+      "cash": 499,
+      "count": 15
+    },
+    {
+      "id": 4,
+      "img": "assets/img/carousel/Cross.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "custom": "Custom",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel1",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": true,
+      "cash": 400,
+      "count": 5
+    },
+    {
+      "id": 5,
+      "img": "assets/img/carousel/U.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "custom": "Custom",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel1",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": true,
+      "cash": 400,
+      "count": 24
+    },
+    {
+      "id": 6,
+      "img": "assets/img/carousel/U.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "custom": "Custom",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel1",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": true,
+      "cash": 400,
+      "count": 0
+    }
+  ],
+  "carousel2": [
+    {
+      "id": 7,
+      "img": "assets/img/carousel/V.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "custom": "Custom",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel2",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": false,
+      "cash": 499,
+      "count": 128
+    },
+    {
+      "id": 8,
+      "img": "assets/img/carousel/W.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "custom": "Custom",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel2",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": true,
+      "cash": 499,
+      "count": 38
+    },
+    {
+      "id": 9,
+      "img": "assets/img/carousel/X.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "custom": "Custom",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel2",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": true,
+      "cash": 499,
+      "count": 29
+    },
+    {
+      "id": 10,
+      "img": "assets/img/carousel/Cross.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "custom": "Custom",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel2",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": true,
+      "cash": 499,
+      "count": 15
+    },
+    {
+      "id": 11,
+      "img": "assets/img/carousel/U.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "custom": "Custom",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel2",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": false,
+      "cash": 499,
+      "count": 21
+    },
+    {
+      "id": 12,
+      "img": "assets/img/carousel/U.png",
+      "like": "assets/img/carousel/like.png",
+      "likeFilled": "assets/img/carousel/likefilled.png",
+      "gold": "assets/img/carousel/gold.png",
+      "mix": "assets/img/carousel/halfgold,silver.png",
+      "silver": "assets/img/carousel/silver.png",
+      "custom": "Custom",
+      "description": "Name Bracelet",
+      "seemore": "seemore",
+      "src": "carousel2",
+      "price": {
+        "semigold": 400,
+        "golden": 499,
+        "silver": 350
+      },
+      "clicked": false,
+      "cash": 499,
+      "count": 259
+    }
+  ],
+  "belt": [
+    {
+      "id": "13",
+      "beltimg": "assets/img/Belt/bluebelt.png",
+      "img": "assets/img/Belt/blue.png",
+      "colour": "Blue Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 1
+    },
+    {
+      "id": "14",
+      "beltimg": "assets/img/Belt/brownbelt.png",
+      "img": "assets/img/Belt/brown.png",
+      "colour": "Brown Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 1
+    },
+    {
+      "id": "15",
+      "beltimg": "assets/img/Belt/brown2belt.png",
+      "img": "assets/img/Belt/brown2.png",
+      "colour": "Brown2 Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 0
+    },
+    {
+      "id": "16",
+      "beltimg": "assets/img/Belt/whitebelt.png",
+      "img": "assets/img/Belt/white.png",
+      "colour": "White Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 2
+    },
+    {
+      "id": "17",
+      "beltimg": "assets/img/Belt/yellowbelt.png",
+      "img": "assets/img/Belt/yellow.png",
+      "colour": "Yellow Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 1
+    },
+    {
+      "id": "18",
+      "beltimg": "assets/img/Belt/blackbelt.png",
+      "img": "assets/img/Belt/black.png",
+      "colour": "Black Mood",
+      "default": "assets/img/Belt/blackbelt.png",
+      "price": 400,
+      "beltPrice": 400,
+      "count": 1
+    },
+    {
+      "id": "19",
+      "beltimg": "assets/img/Belt/greenbelt.png",
+      "img": "assets/img/Belt/green.png",
+      "colour": "Green Mood",
+      "price": 1000,
+      "beltPrice": 400,
+      "count": 2
+    }
+  ],
+  "belt2": [
+    {
+      "id": "20",
+      "beltimg": "assets/img/Belt/redbelt.png",
+      "img": "assets/img/Belt/red.png",
+      "colour": "Red Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 0
+    },
+    {
+      "id": "21",
+      "beltimg": "assets/img/Belt/brownbelt.png",
+      "img": "assets/img/Belt/brown.png",
+      "colour": "Brown Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 0
+    },
+    {
+      "id": "22",
+      "beltimg": "assets/img/Belt/brown2belt.png",
+      "img": "assets/img/Belt/brown2.png",
+      "colour": "Brown2 Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 0
+    },
+    {
+      "id": "23",
+      "beltimg": "assets/img/Belt/whitebelt.png",
+      "img": "assets/img/Belt/white.png",
+      "colour": "White Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 0
+    },
+    {
+      "id": "24",
+      "beltimg": "assets/img/Belt/yellowbelt.png",
+      "img": "assets/img/Belt/yellow.png",
+      "colour": "Yellow Mood",
+      "price": 200,
+      "beltPrice": 400,
+      "count": 0
+    },
+    {
+      "id": "25",
+      "beltimg": "assets/img/Belt/blackbelt.png",
+      "img": "assets/img/Belt/black.png",
+      "colour": "Black Mood",
+      "price": 400,
+      "beltPrice": 400,
+      "count": 0
+    },
+    {
+      "id": "26",
+      "beltimg": "assets/img/Belt/greenbelt.png",
+      "img": "assets/img/Belt/green.png",
+      "colour": "Green Mood",
+      "price": 1000,
+      "beltPrice": 400,
+      "count": 0
+    }
+  ],
+  "bag": [
+    {
+      "belt": {
+        "id": "19",
+        "img": "/static/media/beltscolor.c73cf949b94a34ff5737.png",
+        "colourImg": "assets/img/Belt/green.png",
+        "price": 1000,
+        "count": 1
+      },
+      "goldLetters": [
+        {
+          "id": 8,
+          "img": "assets/img/carousel/W.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.5846118225931829,
+          "count": 1
+        },
+        {
+          "id": 9,
+          "img": "assets/img/carousel/X.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.9414178062975804,
+          "count": 1
+        },
+        {
+          "id": 10,
+          "img": "assets/img/carousel/Cross.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 400,
+          "delId": 0.898300869023752,
+          "count": 1
+        },
+        {
+          "id": 12,
+          "img": "assets/img/carousel/U.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 400,
+          "delId": 0.797358769419954,
+          "count": 1
+        },
+        {
+          "id": 11,
+          "img": "assets/img/carousel/U.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.560716506364807,
+          "count": 1
+        },
+        {
+          "id": 7,
+          "img": "assets/img/carousel/V.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.6017665197577793,
+          "count": 2
+        },
+        {
+          "id": 8,
+          "img": "assets/img/carousel/W.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.44094296534891386,
+          "count": 2
+        },
+        {
+          "id": 7,
+          "img": "assets/img/carousel/V.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.9266458311789876,
+          "count": 3
+        },
+        {
+          "id": 8,
+          "img": "assets/img/carousel/W.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.904732858827286,
+          "count": 3
+        },
+        {
+          "id": 7,
+          "img": "assets/img/carousel/V.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.20373795997145505,
+          "count": 4
+        }
+      ],
+      "totalPrice": 5792,
+      "id": 1
+    }
+  ],
+  "golds": [
+    {
+      "golddata": {
+        "id": 4,
+        "img": "assets/img/carousel/Cross.png",
+        "goldImg": "assets/img/carousel/gold.png",
+        "mixImg": "assets/img/carousel/halfgold,silver.png",
+        "silverImg": "assets/img/carousel/silver.png",
+        "price": {
+          "semigold": 400,
+          "golden": 499,
+          "silver": 350
+        },
+        "cash": 350,
+        "count": 1,
+        "itemPrice": 350
+      },
+      "id": 1,
+      "cash": 499,
+      "itemPrice": 350,
+      "count": 1
+    },
+    {
+      "golddata": {
+        "id": 5,
+        "img": "assets/img/carousel/U.png",
+        "goldImg": "assets/img/carousel/gold.png",
+        "mixImg": "assets/img/carousel/halfgold,silver.png",
+        "silverImg": "assets/img/carousel/silver.png",
+        "price": {
+          "semigold": 400,
+          "golden": 499,
+          "silver": 350
+        },
+        "cash": 499,
+        "count": 1,
+        "itemPrice": 499
+      },
+      "id": 2,
+      "cash": 350,
+      "itemPrice": 350,
+      "count": 1
+    }
+  ]
+}

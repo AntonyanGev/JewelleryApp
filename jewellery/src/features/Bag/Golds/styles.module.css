@@ -1,0 +1,126 @@
+@media (max-width: 639px) {
+  .custom-sm-space {
+ 
+ display:flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ padding: 10px 85px 10px 0px;
+ text-align: center;
+ border-radius: 0%;
+ font-size: 13px;
+ gap:6px
+  }
+
+  .custom_sm_bagDiv{
+
+display:flex;
+flex-direction: column;
+align-items: center;
+text-align: center;
+margin-top: -20px;
+gap:15px;
+/* padding: 0px 25px 5px 45px */
+
+  }
+
+  .custom_sm_bagCount{
+
+display:flex;
+flex-direction: column;
+align-items: center;
+text-align: center;
+padding: 0 50% 5px 0;
+gap:15px
+
+
+
+  }
+
+
+
+.custom_sm_space2{
+    display:none; 
+
+ 
+}
+
+.custom_sm_count{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 70px 25px 0;
+    gap:10px
+
+}
+.custom_sm_delete{
+margin-right: 6.5rem ;
+margin-top: 0.50rem;
+height:15px;
+
+}
+
+
+.custom_sm_total_order{
+ display: flex;
+ flex-direction: column;
+ width: 90px;
+ border-top: 1px solid white;
+ align-items: center;
+ text-align: center;
+ justify-content: center;
+ padding-right: -3%;
+ gap:10px;
+ position:relative;
+ padding-bottom: 50px;
+
+
+
+}
+.custom_sm_total{
+
+font-size: 13px;
+
+}
+.custom_sm_order{
+
+font-size: 12px;
+width: max-content;
+padding:3px 15px 3px 15px;
+text-align: center;
+align-items: center;
+position:absolute;
+bottom:0.70rem;
+left:-60%
+}
+
+}
+
+@media screen and (max-width: 391px) {
+
+.positioning{
+  display:flex;
+  flex-direction: column;
+}
+
+ .custom_img {
+    height: 45px !important;
+    width: 35px !important;
+    padding: 0 !important;
+  }
+.smallDev{
+  padding-right:35px
+}
+
+
+} 
+
+
+
+@media screen and (max-width: 400px) {
+.goldenTypes{
+padding-right:95px
+
+}
+}
