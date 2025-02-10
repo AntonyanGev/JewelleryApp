@@ -19,7 +19,7 @@
       },
       "clicked": false,
       "cash": 499,
-      "count": 1
+      "count": 0
     },
     {
       "id": 2,
@@ -39,8 +39,8 @@
         "silver": 350
       },
       "clicked": false,
-      "cash": 499,
-      "count": 1
+      "cash": 350,
+      "count": 0
     },
     {
       "id": 3,
@@ -60,7 +60,7 @@
         "silver": 350
       },
       "clicked": false,
-      "cash": 350,
+      "cash": 499,
       "count": 17
     },
     {
@@ -80,7 +80,7 @@
         "golden": 499,
         "silver": 350
       },
-      "clicked": true,
+      "clicked": false,
       "cash": 499,
       "count": 5
     },
@@ -103,7 +103,7 @@
       },
       "clicked": false,
       "cash": 400,
-      "count": 24
+      "count": 25
     },
     {
       "id": 6,
@@ -123,8 +123,8 @@
         "silver": 350
       },
       "clicked": false,
-      "cash": 400,
-      "count": 0
+      "cash": 499,
+      "count": 1
     }
   ],
   "carousel2": [
@@ -147,7 +147,7 @@
       },
       "clicked": false,
       "cash": 499,
-      "count": 129
+      "count": 128
     },
     {
       "id": 8,
@@ -167,8 +167,8 @@
         "silver": 350
       },
       "clicked": false,
-      "cash": 499,
-      "count": 40
+      "cash": 400,
+      "count": 39
     },
     {
       "id": 9,
@@ -188,8 +188,8 @@
         "silver": 350
       },
       "clicked": false,
-      "cash": 499,
-      "count": 31
+      "cash": 350,
+      "count": 30
     },
     {
       "id": 10,
@@ -208,9 +208,9 @@
         "golden": 499,
         "silver": 350
       },
-      "clicked": true,
-      "cash": 499,
-      "count": 16
+      "clicked": false,
+      "cash": 350,
+      "count": 15
     },
     {
       "id": 11,
@@ -229,9 +229,9 @@
         "golden": 499,
         "silver": 350
       },
-      "clicked": true,
-      "cash": 499,
-      "count": 22
+      "clicked": false,
+      "cash": 350,
+      "count": 21
     },
     {
       "id": 12,
@@ -251,8 +251,8 @@
         "silver": 350
       },
       "clicked": false,
-      "cash": 499,
-      "count": 259
+      "cash": 350,
+      "count": 258
     }
   ],
   "belt": [
@@ -318,7 +318,7 @@
       "colour": "Green Mood",
       "price": 1000,
       "beltPrice": 400,
-      "count": 2
+      "count": 3
     }
   ],
   "belt2": [
@@ -386,6 +386,63 @@
       "count": 0
     }
   ],
-  "bag": [],
+  "bag": [
+    {
+      "belt": {
+        "img": "/static/media/beltscolor.c73cf949b94a34ff5737.png",
+        "price": 400,
+        "count": null
+      },
+      "goldLetters": [
+        {
+          "id": 5,
+          "img": "assets/img/carousel/U.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 400,
+          "delId": 0.1346204724833302,
+          "count": 25
+        },
+        {
+          "id": 3,
+          "img": "assets/img/carousel/X.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.6417627921319942,
+          "count": 18
+        },
+        {
+          "id": 6,
+          "img": "assets/img/carousel/U.png",
+          "goldImg": "assets/img/carousel/gold.png",
+          "mixImg": "assets/img/carousel/halfgold,silver.png",
+          "silverImg": "assets/img/carousel/silver.png",
+          "price": {
+            "semigold": 400,
+            "golden": 499,
+            "silver": 350
+          },
+          "cash": 499,
+          "delId": 0.08499271965667199,
+          "count": 1
+        }
+      ],
+      "totalPrice": 1798,
+      "id": 1
+    }
+  ],
   "golds": []
 }
