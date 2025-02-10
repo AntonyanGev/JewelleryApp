@@ -60,8 +60,8 @@
         "silver": 350
       },
       "clicked": false,
-      "cash": 499,
-      "count": 15
+      "cash": 350,
+      "count": 17
     },
     {
       "id": 4,
@@ -81,7 +81,7 @@
         "silver": 350
       },
       "clicked": true,
-      "cash": 400,
+      "cash": 499,
       "count": 5
     },
     {
@@ -101,7 +101,7 @@
         "golden": 499,
         "silver": 350
       },
-      "clicked": true,
+      "clicked": false,
       "cash": 400,
       "count": 24
     },
@@ -122,7 +122,7 @@
         "golden": 499,
         "silver": 350
       },
-      "clicked": true,
+      "clicked": false,
       "cash": 400,
       "count": 0
     }
@@ -147,7 +147,7 @@
       },
       "clicked": false,
       "cash": 499,
-      "count": 128
+      "count": 129
     },
     {
       "id": 8,
@@ -166,9 +166,9 @@
         "golden": 499,
         "silver": 350
       },
-      "clicked": true,
+      "clicked": false,
       "cash": 499,
-      "count": 38
+      "count": 40
     },
     {
       "id": 9,
@@ -187,9 +187,9 @@
         "golden": 499,
         "silver": 350
       },
-      "clicked": true,
+      "clicked": false,
       "cash": 499,
-      "count": 29
+      "count": 31
     },
     {
       "id": 10,
@@ -210,7 +210,7 @@
       },
       "clicked": true,
       "cash": 499,
-      "count": 15
+      "count": 16
     },
     {
       "id": 11,
@@ -229,9 +229,9 @@
         "golden": 499,
         "silver": 350
       },
-      "clicked": false,
+      "clicked": true,
       "cash": 499,
-      "count": 21
+      "count": 22
     },
     {
       "id": 12,
@@ -386,213 +386,6 @@
       "count": 0
     }
   ],
-  "bag": [
-    {
-      "belt": {
-        "id": "19",
-        "img": "/static/media/beltscolor.c73cf949b94a34ff5737.png",
-        "colourImg": "assets/img/Belt/green.png",
-        "price": 1000,
-        "count": 1
-      },
-      "goldLetters": [
-        {
-          "id": 8,
-          "img": "assets/img/carousel/W.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 499,
-          "delId": 0.5846118225931829,
-          "count": 1
-        },
-        {
-          "id": 9,
-          "img": "assets/img/carousel/X.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 499,
-          "delId": 0.9414178062975804,
-          "count": 1
-        },
-        {
-          "id": 10,
-          "img": "assets/img/carousel/Cross.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 400,
-          "delId": 0.898300869023752,
-          "count": 1
-        },
-        {
-          "id": 12,
-          "img": "assets/img/carousel/U.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 400,
-          "delId": 0.797358769419954,
-          "count": 1
-        },
-        {
-          "id": 11,
-          "img": "assets/img/carousel/U.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 499,
-          "delId": 0.560716506364807,
-          "count": 1
-        },
-        {
-          "id": 7,
-          "img": "assets/img/carousel/V.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 499,
-          "delId": 0.6017665197577793,
-          "count": 2
-        },
-        {
-          "id": 8,
-          "img": "assets/img/carousel/W.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 499,
-          "delId": 0.44094296534891386,
-          "count": 2
-        },
-        {
-          "id": 7,
-          "img": "assets/img/carousel/V.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 499,
-          "delId": 0.9266458311789876,
-          "count": 3
-        },
-        {
-          "id": 8,
-          "img": "assets/img/carousel/W.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 499,
-          "delId": 0.904732858827286,
-          "count": 3
-        },
-        {
-          "id": 7,
-          "img": "assets/img/carousel/V.png",
-          "goldImg": "assets/img/carousel/gold.png",
-          "mixImg": "assets/img/carousel/halfgold,silver.png",
-          "silverImg": "assets/img/carousel/silver.png",
-          "price": {
-            "semigold": 400,
-            "golden": 499,
-            "silver": 350
-          },
-          "cash": 499,
-          "delId": 0.20373795997145505,
-          "count": 4
-        }
-      ],
-      "totalPrice": 5792,
-      "id": 1
-    }
-  ],
-  "golds": [
-    {
-      "golddata": {
-        "id": 4,
-        "img": "assets/img/carousel/Cross.png",
-        "goldImg": "assets/img/carousel/gold.png",
-        "mixImg": "assets/img/carousel/halfgold,silver.png",
-        "silverImg": "assets/img/carousel/silver.png",
-        "price": {
-          "semigold": 400,
-          "golden": 499,
-          "silver": 350
-        },
-        "cash": 350,
-        "count": 1,
-        "itemPrice": 350
-      },
-      "id": 1,
-      "cash": 499,
-      "itemPrice": 350,
-      "count": 1
-    },
-    {
-      "golddata": {
-        "id": 5,
-        "img": "assets/img/carousel/U.png",
-        "goldImg": "assets/img/carousel/gold.png",
-        "mixImg": "assets/img/carousel/halfgold,silver.png",
-        "silverImg": "assets/img/carousel/silver.png",
-        "price": {
-          "semigold": 400,
-          "golden": 499,
-          "silver": 350
-        },
-        "cash": 499,
-        "count": 1,
-        "itemPrice": 499
-      },
-      "id": 2,
-      "cash": 350,
-      "itemPrice": 350,
-      "count": 1
-    }
-  ]
+  "bag": [],
+  "golds": []
 }
