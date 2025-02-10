@@ -156,7 +156,7 @@ const Carousel = ({
     dispatch(
       patchcoast2({ ...item, id: item.id, delId: Math.random(), cash: price })
     );
-    // setClickedOnes((prevClickedOnes) => [...prevClickedOnes, {...item,delId:Math.random(), cash: price }]);
+    /// setClickedOnes((prevClickedOnes) => [...prevClickedOnes, {...item,delId:Math.random(), cash: price }]);
     setModalContent2({
       ...item,
       id: item.id,
@@ -378,8 +378,6 @@ const Carousel = ({
                 sx={{ mt: 2 }}
                 className=" "
               >
-                {" "}
-                {/* max-sm:w-[150px] max-sm:h-[150px] */}
                 <div className="flex space-x-[30px] ml-[30px]">
                   <div className="w-[60px] h-[60px] rounded-[50%] border-transparent border-[1px] p-[2px] cursor-pointer shadow-black shadow-md  max-sm:w-[30px] max-sm:h-[30px] max-md:w-[40px] max-md:h-[40px]">
                     <img
@@ -476,8 +474,6 @@ const Carousel = ({
               sx={{ mt: 2 }}
               className=" "
             >
-              {" "}
-              {/* max-sm:w-[150px] max-sm:h-[150px] */}
               <div className="flex space-x-[30px] ml-[30px]">
                 <div className="w-[60px] h-[60px] rounded-[50%] border-transparent border-[1px] p-[2px] cursor-pointer shadow-black shadow-md  max-sm:w-[30px] max-sm:h-[30px] max-md:w-[40px] max-md:h-[40px]">
                   <img
