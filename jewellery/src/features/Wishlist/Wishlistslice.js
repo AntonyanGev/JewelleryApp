@@ -163,5 +163,3 @@ export const selectwishlistCharm = (state) => state.wishlist.charm;
 export const selectWishlistStatus = (state) => state.wishlist.status;
 
 export default wishlistSlice.reducer;
-
-/////there is some changes
